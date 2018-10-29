@@ -3,6 +3,9 @@ package com.example.gubei.brantest.util;
 import android.app.Activity;
 import android.content.Intent;
 
+/**
+ * 跳转工具类
+ */
 public class JumpUtils {
 
      private static JumpUtils mJumpInstance = null;
